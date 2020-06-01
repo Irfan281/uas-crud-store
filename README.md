@@ -2,6 +2,7 @@
 **Program crud sederhana dalam bahasa C - Sistem informasi Toko Swalayan**
 
 *Program ini ditujukan untuk memenuhi UAS Lab Informatika Kelas A Semester Genap 2020.*
+
 *Muhammad Irfan - 1908107010036*
 
 Beberapa Informasi mengenai program ini :
