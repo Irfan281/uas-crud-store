@@ -1,0 +1,6 @@
+ID, Nama_Barang, Distributor, Stok
+hj6, LifeBuoy Lemon, Unilever, 50
+jo8, Silverqueen, Coklat Makmur, 99
+ai6, Sunlight, Indah Perkasa, 89
+cf9, Fanta, Coca-Cola comp., 77
+yg6, Yakult, Yakult Indonesia, 78
